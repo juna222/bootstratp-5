@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto:ital,wght@1,300&display=swap');
+
+.roboto{
+    font-family:'roboto',cursive;
+}
+.lato{
+    font-family:'lato',cursive;
+}
+.ipt-8{
+    padding-top: 14rem;
+}
+.ipt-6{
+    padding-top: 10rem;
+
+}
+.ipt-7{
+    padding-top: 12rem;
+
+}
+
+.ipt-9{
+    padding-top: 16rem;
+
+}
+.ipt-10{
+    padding-top: 18rem;
+
+}
+
+
+.fs-1{
+    font-size: 1rem;
+}
+.fs-1_5{
+    font-size: 1.5rem;
+}
+.fs-2{
+    font-size: 2rem;
+}
+.fs-2_5{
+    font-size: 2.5rem;
+}
+.fs-3{
+    font-size: 3rem;
+}
+.fs-3_5{
+    font-size: 3.5rem;
+}
+// $utilities:()!default;
+
+// $utilities: map-merge(
+//     (
+//         "font-size":(
+//             property: font-size,
+//             Class: fs,
+//             values:(
+//                 1: 1rem,
+//                 1_5: 1.5rem,
+//                 2: 2rem,
+//                 2_5: 2.5rem,
+//                 3: 3rem,
+//                 3_5: 3.5rem
+//             )
+//         ),
+//         "input-padding":(
+//             property: padding-top,
+//             class: ipt,
+//             values:(
+//                 6: 10rem,
+//                 7: 12rem,
+//                 8: 14rem,
+//                 9: 16rem,
+//                 10: 18rem
+//             )
+//         ),
+//     ),
+//     $utilities
+// )
+
+
+
+// .ipt-8{
+//     padding-top: 16rem;
+// }
+
